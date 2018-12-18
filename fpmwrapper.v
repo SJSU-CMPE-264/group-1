@@ -101,7 +101,7 @@ fpmreg1 DoneBit(
 .out(donedly)
 );
 
-fpmul MultiplyFP(
+FPMUL MultiplyFP(
 .Clk(clk),
 .Rst(rst),
 .Start(startpulsecmb),

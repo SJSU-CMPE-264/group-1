@@ -1,4 +1,4 @@
-module fpmul(
+module FPMUL(
 		input Clk,
 		input Rst,
 		input Start,
